@@ -1,0 +1,6 @@
+{
+  "name": "Local Event Discovery",
+  "description": "An interactive, highly animated local event discovery platform with real-time vector map routing, Gemini-powered personalized suggestions, social share card generator, live seated ticket purchasing, and push notifications.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
